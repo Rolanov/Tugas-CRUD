@@ -1,4 +1,5 @@
 ## Halaman Awal
+Dengan beberapa contoh post
 <br>
 ![screenshot](img/1_viewposts.png)
 <br>
@@ -17,7 +18,7 @@ Berhasil membuat post baru
 <br>
 
 ## Melihat isi Post
-
+Tampilan ketika user mengklik tombol "baca selengkapnya"
 <br>
 ![screenshot](img/4_show_post.png)
 <br>
