@@ -25,26 +25,22 @@ Tampilan ketika user mengklik tombol "baca selengkapnya"
 
 ## Mengedit Post
 Mengedit judul post
-
 <br>
 ![screenshot](img/5_edit_post.png)
 <br>
 
 Berhasil mengedit judul post
-
 <br>
 ![screenshot](img/6_edit_success.png)
 <br>
 
 ## Menghapus post
 Memerlukan konfirmasi sebelum menghapus post
-
 <br>
 ![screenshot](img/7_delete_confirmation.png)
 <br>
 
 Menghapus post berhasil
-
 <br>
 ![screenshot](img/8_delete_success.png)
 <br>
