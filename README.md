@@ -1,5 +1,4 @@
 ## Halaman Awal
-tes
 <br>
 ![screenshot](img/1_viewposts.png)
 <br>
@@ -18,6 +17,7 @@ Berhasil membuat post baru
 <br>
 
 ## Melihat isi Post
+
 <br>
 ![screenshot](img/4_show_post.png)
 <br>
